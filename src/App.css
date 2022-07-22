@@ -1,0 +1,20 @@
+.App {
+  width: 100%;
+  max-width: 500px;
+  margin: 50px auto;
+  text-align: center;
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+button {
+  width: 150px;
+  margin: 20px 5px;
+  padding: 5px 10px;
+  font-size: 14px;
+  cursor: pointer;
+}
+.customer {
+  border: 1px solid rebeccapurple;
+  cursor: pointer;
+  margin-bottom: 5px;
+}
